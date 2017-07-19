@@ -6,7 +6,7 @@ print """
 **************************************************
 
 Thanks to Pannenkoek2012
-https://youtu.be/MiuLeTE2MeQ?t=1m40s
+https://youtu.be/MiuLeTE2MeQ
 
 --------------------------------------------------
 
